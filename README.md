@@ -1,4 +1,4 @@
-# Car Price Prediction ML Project#
+# Car Price Prediction ML Project
 ## Overview
 This repository contains a Machine Learning project to predict car-related features based on an existing dataset (`car_price_prediction.csv`). The project covers a complete end-to-end machine learning pipeline, starting from data ingestion all the way through to model evaluation.
 
